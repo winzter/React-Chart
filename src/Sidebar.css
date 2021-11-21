@@ -1,0 +1,25 @@
+.Con{
+    height: 100%;
+    width:250px;
+    background-color: skyblue;
+    font-size:30px ;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.home,.chart{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.home:hover,.chart:hover{
+    text-decoration: none;
+    color: rgb(9, 93, 141);
+}
+
+.home:active,.chart:active{
+    text-decoration: none ;
+    color: rgb(9, 93, 141);
+}
